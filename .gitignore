@@ -1,0 +1,6 @@
+*.pyc
+*__pycache__*
+*node_modules*
+blockchain-env/lib/python3.7
+.pytest_cache
+
